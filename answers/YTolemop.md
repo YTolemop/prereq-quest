@@ -50,9 +50,9 @@ Command I used: grep -c 'ERROR' missions/01-linux/server.log
 
 ## Mission 03 — SSH
 
-SSH token:
+SSH token: FLAG{fe322c8dc745}
 
-Command I used:
+Command I used: ssh -i "$HOME/.ssh/knock knock" flag@217.142.229.247
 
 ## Mission 04 — Debug
 
