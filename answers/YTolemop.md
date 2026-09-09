@@ -68,6 +68,6 @@ What I changed: 改成絕對路徑，也就是 CMD 改成 ["janet", "/app/main.j
 
 ## Mission 06 — Improve something
 
-What I changed:
+What I changed: 在 missions/03-ssh/README.md 補充 SSH key 的檔名含空格時要用引號包住路徑。
 
-Why:
+Why: 我忘記加引號導致無法正確執行
