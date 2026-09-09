@@ -56,9 +56,9 @@ Command I used: ssh -i "$HOME/.ssh/knock knock" flag@217.142.229.247
 
 ## Mission 04 — Debug
 
-What was wrong:
+What was wrong: 應該輸出 42 但輸出 41
 
-What I changed:
+What I changed: 把 (+ (base-value) 1) 改成 (+ (base-value) 2)
 
 ## Mission 05 — Docker
 
