@@ -62,9 +62,9 @@ What I changed: 把 (+ (base-value) 1) 改成 (+ (base-value) 2)
 
 ## Mission 05 — Docker
 
-What was wrong:
+What was wrong: 程式在 /app/main.janet，原本用相對路徑在 /quest 下會找不到
 
-What I changed:
+What I changed: 改成絕對路徑，也就是 CMD 改成 ["janet", "/app/main.janet"]
 
 ## Mission 06 — Improve something
 
