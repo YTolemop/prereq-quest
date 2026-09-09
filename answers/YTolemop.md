@@ -38,15 +38,15 @@ Languages I have used: C++, Python
 
 ### Task A — find the file
 
-Path:
+Path: missions/01-linux/files/.config/nested/.deep/.treasure
 
-Command I used:
+Command I used: grep -rFn 'THE_PENGUIN_WAS_HERE' missions/01-linux/files/
 
 ### Task B — count the errors
 
-Count:
+Count: 8
 
-Command I used:
+Command I used: grep -c 'ERROR' missions/01-linux/server.log
 
 ## Mission 03 — SSH
 
