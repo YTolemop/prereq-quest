@@ -2,4 +2,4 @@
 
 Explorers who passed through, and what they left behind:
 
-- <!-- add your entry here -->
+- 禮拜三才傳也太趕了吧？根本沒時間做，恨助教。（誤
